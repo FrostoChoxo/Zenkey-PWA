@@ -1,4 +1,4 @@
-# 🛍️ Zenkey – Offline-First E-Commerce Web App
+# Zenkey – Offline-First E-Commerce Web App
 
 Zenkey is a cutting-edge **offline-first e-commerce application** that provides a seamless shopping experience both **online and offline**. By leveraging **service workers, IndexedDB, and background sync**, Zenkey ensures users can browse products, manage their cart, and even sign up without an internet connection. The app updates and syncs automatically when back online, offering a truly uninterrupted shopping experience.
 
